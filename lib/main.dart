@@ -112,7 +112,7 @@ class _CounterScreenState extends State<CounterScreen> {
               backgroundColor: isDarkMode ? Colors.white : Colors.black,
             ),
             child: Icon(
-              isDarkMode ? Icons.wb_sunny : Icons.nightlight_round, // 🌞 / 🌙
+              isDarkMode ? Icons.wb_sunny : Icons.nightlight_round,
               color: isDarkMode ? Colors.black : Colors.white,
               size: 30,
             ),
